@@ -1,4 +1,4 @@
- Amazon Kindle: Analyzing Customer Sentiments on E-book Purchases
+ # Amazon Kindle: Analyzing Customer Sentiments on E-book Purchases
 
 <p align="justify">E-books were invented in the early 1970's by Michael S. Hart. Michael created his first electronic document by typing the United States Declaration of Independence into a computer in plain text. It wasn't until the late 1990s when E-books became mainstream where people were able to access documents through a primitive type of handheld device called the Personal Digital Assistant (PDA). Although at this time E-books weren't completely solidified yet as a primary source of information consumption until the Sony Corporation released an e-reading device in 2006 and Amazon.com released the Kindle in 2007, after which sales of e-books in the United States grew rapidly.</p>
 
